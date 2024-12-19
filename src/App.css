@@ -1,0 +1,30 @@
+li {
+    font-size: 18px;
+    margin: 5px 0;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.changed-bg {
+    background-color: #4CAF50; 
+    color: white; 
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+div {
+    margin-top: 20px;
+}
